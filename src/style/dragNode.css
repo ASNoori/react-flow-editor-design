@@ -1,0 +1,19 @@
+.options {
+  cursor: grab;
+  min-width: 100px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  border: 2px solid #734f96;
+  justify-content: center;
+  flex-direction: column;
+}
+.node-icon {
+  margin-bottom: 8px;
+  font-size: 24px;
+  color: #734f96;
+}
+.label {
+  color: #734f96;
+}
